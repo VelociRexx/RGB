@@ -1,0 +1,75 @@
+html {
+  background-image: url(img/rainbowBG.jpg);
+  background-size: auto;
+}
+
+body {
+  background: white;
+  text-align: center;
+  padding: 25px 0;
+  width: 700px;
+  margin: 25px auto;
+  border-radius: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 42px;
+  letter-spacing: 2px;
+}
+.rgb-code {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+input {
+  width: 60px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+hr {
+  width: 500px;
+}
+#redIn {
+  background-color: red;
+}
+#blueIn {
+  background-color: blue;
+}
+#greenIn {
+  background-color: green;
+}
+#display {
+  width: 400px;
+  height: 200px;
+  background: rgb(255, 255, 0);
+  margin: auto;
+  border-color: grey;
+  border-width: 3px;
+}
+button {
+  background: grey;
+  color: white;
+  border-radius: 4px;
+  padding: 3px 8px;
+  cursor: pointer;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+button:hover {
+  color: #7cb58b;
+  background-color: black;
+}
+p {
+  letter-spacing: 2px;
+}
+#lastp {
+  font-family: ;
+}
